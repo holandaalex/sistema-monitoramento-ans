@@ -154,11 +154,9 @@ O sistema inclui visualizações interativas para:
 
 [DASHBOARD POWER BI](https://app.powerbi.com/groups/me/reports/1294f856-0811-4271-a7a4-0282c881ec96/871e5344bca4d3c202c3?ctid=88af54ad-8e90-4d56-b613-6e5bf824ab6b&experience=power-bi)
 
-[DEMAIS ARQUIVOS 1](https://sistemafibra-my.sharepoint.com/:f:/r/personal/alexsander_barreto_sistemafibra_org_br/Documents/CNI%20-%20ALEXSANDER?csf=1&web=1&e=Nq0v9c)
-
-[DEMAIS ARQUIVOS 2](https://drive.google.com/drive/folders/11Iz4u40QWwylVqj2iwDRKQt_uGuf9tsG?usp=sharing)
+[DEMAIS ARQUIVOS](https://drive.google.com/drive/folders/11Iz4u40QWwylVqj2iwDRKQt_uGuf9tsG?usp=sharing)
 
 
 ---
 
-Desenvolvido para fins educacionais - https://alexholanda.com.br
+Desenvolvido para fins educacionais - Alexsander Barreto - https://alexholanda.com.br
