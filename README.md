@@ -136,8 +136,6 @@ O sistema inclui visualizações interativas para:
 
 ## ✨ Agradecimentos
 
-- Equipe de desenvolvimento
-- Contribuidores
 - Comunidade open source
 
 
