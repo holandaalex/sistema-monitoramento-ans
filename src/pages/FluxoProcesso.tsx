@@ -167,9 +167,11 @@ const FluxoProcesso: React.FC = () => {
             <br /> <br />
             [OBS: Bizagi NÃO tem suporte para sistema macOS (que é meu caso), acabei criando em outra plataforma]
             <br /> 
+            
             <a href="https://alexholanda.com.br/wp-content/uploads/2025/05/Fluxo-de-Automatizacao-do-Monitoramento-dos-ANS-e1746729888105.png" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">
               Clique aqui para acessar
             </a>
+            
           </div>
           <p className="mt-4 text-sm text-gray-600">
             <strong>Nota:</strong> Os modelos BPMN são criados no Bizagi Modeler, que é uma ferramenta visual.
