@@ -152,7 +152,8 @@ O sistema inclui visualizações interativas para:
 
 ## LINKS ÚTEIS DO PROJETO (CNI).
 
-[DASHBOARD POWER BI](https://app.powerbi.com/groups/me/reports/1294f856-0811-4271-a7a4-0282c881ec96/871e5344bca4d3c202c3?ctid=88af54ad-8e90-4d56-b613-6e5bf824ab6b&experience=power-bi)
+[DASHBOARD POWER BI](https://app.powerbi.com/groups/34c0e42e-36ce-4118-9369-b83d5e5df7a9/reports/cb66d2c1-80db-42da-a34e-5689d2251894?ctid=88af54ad-8e90-4d56-b613-6e5bf824ab6b&pbi_source=linkShare)
+
 
 [DEMAIS ARQUIVOS](https://drive.google.com/drive/folders/11Iz4u40QWwylVqj2iwDRKQt_uGuf9tsG?usp=sharing)
 
